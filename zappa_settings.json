@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "django_settings": "serverlessDjango.serverlessDjango.settings",
+        "profile_name": "default",
+        "project_name": "untitled",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-fayqng65v",
+        "aws_region": "us-east-2"
+    }
+}
